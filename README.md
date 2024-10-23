@@ -2,7 +2,7 @@
 
 Domain Analyzer is a powerful, user-friendly Vue.js application that provides comprehensive information about any given domain. It offers quick insights into DNS, IP details, geolocation, SSL status, and much more, making it an invaluable tool for web developers, network administrators, and cybersecurity professionals.
 
-<img alt="banner" src="https://cdn.glitch.global/146520f4-15c2-44d2-933d-590e1fdfc8aa/186348fc-a934-406d-b3e5-ae682f39faf1.image.png?v=1729614523623">
+<img alt="banner" src="https://cdn.glitch.global/146520f4-15c2-44d2-933d-590e1fdfc8aa/43dfc0ea-d6e6-4653-96a8-f2ff7c8f7dc7.image.png?v=1729697694156">
 
 ## 👀 v.0.0.2
 1. **Expanded Analysis Results**: The tool now provides more comprehensive information about the analyzed domain, including:
